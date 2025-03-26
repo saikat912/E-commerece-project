@@ -55,9 +55,3 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 
 Feel free to reach out with any questions or suggestions! 😊
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/15804853/acd40fe7-2dcd-4d63-aec5-fb5ce6bda93f/E-Commerce-Domain-RFM-Approach.ipynb
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/15804853/acd40fe7-2dcd-4d63-aec5-fb5ce6bda93f/E-Commerce-Domain-RFM-Approach.ipynb
-
----
-Answer from Perplexity: pplx.ai/share
